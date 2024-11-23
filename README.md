@@ -1,2 +1,2 @@
 # Calapiz-Alvarado-Branggan-J
-imple-java-program-with-gui-calapiz-branggan-alvarado
+simple-java-program-with-gui-calapiz-branggan-alvarado
